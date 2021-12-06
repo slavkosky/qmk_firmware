@@ -217,8 +217,8 @@ These keycodes are not part of the Keyboard/Keypad usage page. The `SYSTEM_` key
 |`KC_WWW_STOP`          |`KC_WSTP`|Browser Stop       |
 |`KC_WWW_REFRESH`       |`KC_WREF`|Browser Refresh    |
 |`KC_WWW_FAVORITES`     |`KC_WFAV`|Browser Favorites  |
-|`KC_MEDIA_FAST_FORWARD`|`KC_MFFD`|Next Track         |
-|`KC_MEDIA_REWIND`      |`KC_MRWD`|Previous Track     |
+|`KC_MEDIA_FAST_FORWARD`|`KC_MFFD`|Fast Forward       |
+|`KC_MEDIA_REWIND`      |`KC_MRWD`|Rewind             |
 |`KC_BRIGHTNESS_UP`     |`KC_BRIU`|Brightness Up      |
 |`KC_BRIGHTNESS_DOWN`   |`KC_BRID`|Brightness Down    |
 
